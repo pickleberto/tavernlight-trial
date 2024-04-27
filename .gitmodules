@@ -2,3 +2,6 @@
 	path = forgottenserver
 	url = https://github.com/pickleberto/forgottenserver.git
 	branch = 1.4
+[submodule "otclient"]
+	path = otclient
+	url = https://github.com/pickleberto/otclient.git
